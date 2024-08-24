@@ -2,5 +2,6 @@
 Course belongs to Coursera - IBM : https://www.coursera.org/professional-certificates/bi-analyst
 
 
-[IBM BI.pdf](https://github.com/user-attachments/files/16736764/IBM.BI.pdf)
 
+
+https://github.com/user-attachments/files/16736768/IBM.Business.Intelligence.BI.Essentials.pdf
